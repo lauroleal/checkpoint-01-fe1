@@ -1,5 +1,6 @@
-##Checkpoint 01
-###Objetivo
+## Checkpoint 01
+
+### Objetivo
 
 O objetivo é criar um site que vai falar da sua cidade. Para isso, utilize de tudo que você aprendeu até aqui! 
 Instruções
