@@ -1,0 +1,128 @@
+﻿
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2? family = PT + Sans + Narrow: wght @ 400; 700 & family = Work + Sans: ital, wght @ 1.700 & display = swap' );
+
+
+*{ font-family: 'PT Sans Narrow', sans-serif, 'Work Sans', sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+
+ .imagem-logo{
+top: -20px;
+position: absolute;
+width: 160px;
+float: left;
+left: 60px;
+}
+
+
+
+header{
+background-color: #1C7B4D;
+padding: 40px 0 40px 0;
+}
+
+body{
+background-image: url("../img/Food.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+background-color: #cccccc;
+}
+
+
+h1{
+color:#ffffff;
+text-align: center;
+}
+
+p{
+text-align: justify;
+padding: 3px;
+margin-left: 30px;
+color: #ffffff;
+}
+
+h2{
+text-align: justify;
+padding: 3px;
+margin-left: 30px;
+color: #012142;
+}
+
+main{
+background-color: #288efbb2;
+padding: 10px;
+}
+
+b{
+color: #012142;
+}
+
+.video-youtube{
+margin: 0 30px -4px 30px;	
+}
+
+.listas-curiosidades{
+background-color: #288efbb2;
+padding: 10px;
+}
+
+.titulo-curiosidades{
+ color: #012142;
+ text-align: center;
+ }
+
+ li{
+ color: #b0e9cd;
+ text-align: center;
+ font-weight: bold;
+ }
+
+ li::before{
+content: url("../img/cac.svg");
+width: 10px;
+height: auto;
+}
+
+footer{
+background-color: #1C7B4D;
+padding: 40px 0 40px 0;
+}
+
+.aviso-cop{
+text-align: center;
+color: #ffffff;
+}
+
+
+.icones-sociais-footer{
+width: 43px;
+height: 36px;
+}
+
+a.icones-sociais-instagram-footer:hover{
+content: url(../img/ins2.png);
+width: 43px;
+height: 36px;
+}
+
+a.icones-sociais-twitter-footer:hover{
+content: url(../img/tw2.png);
+width: 43px;
+height: 36px;
+
+}
+
+a.icones-sociais-facebook-footer:hover{
+content: url(../img/fb2.png);
+width: 43px;
+height: 36px;
+}
+.alinhar-icones{
+text-align: center;
+padding: 5px;
+margin-top: 20px;
+}
