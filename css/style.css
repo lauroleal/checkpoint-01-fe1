@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2? family = PT + Sans + Narrow: wght @ 400; 700 & family = Work + Sans: ital, wght @ 1.700 & display = swap' );
 
 
-*{ font-family: 'PT Sans Narrow', sans-serif, 'Work Sans', sans-serif;
+*{
    margin: 0;
    padding: 0;
    box-sizing: border-box;
@@ -36,6 +36,7 @@ background-color: #cccccc;
 h1{
 color:#ffffff;
 text-align: center;
+font-family: 'PT Sans Narrow', sans-serif;
 }
 
 p{
@@ -43,6 +44,7 @@ text-align: justify;
 padding: 3px;
 margin-left: 30px;
 color: #ffffff;
+font-family: 'PT Sans Narrow', sans-serif;
 }
 
 h2{
@@ -50,6 +52,7 @@ text-align: justify;
 padding: 3px;
 margin-left: 30px;
 color: #012142;
+font-family: 'PT Sans Narrow', sans-serif;
 }
 
 main{
@@ -79,6 +82,7 @@ padding: 10px;
  color: #b0e9cd;
  text-align: center;
  font-weight: bold;
+ font-family: 'Work Sans', sans-serif;
  }
 
  li::before{
@@ -95,6 +99,7 @@ padding: 40px 0 40px 0;
 .aviso-cop{
 text-align: center;
 color: #ffffff;
+font-family: 'Work Sans', sans-serif;
 }
 
 
